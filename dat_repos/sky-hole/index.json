@@ -1,0 +1,57 @@
+{
+    "id": "9b4f1694cccd9dcc024bb521919bdc3d9e0d891172caebcde61d0cb70640dc12",
+    "name": "Sky Hole",
+    "type": "album",
+    "updatedAt": 1584302766367,
+    "releaseDate": "2020",
+    "artists": [
+        "Chrispiet"
+    ],
+    "copyright": "CC BY-SA 4.0",
+    "genres": [
+        "Instrumental",
+        "Electro",
+        "SynthPop"
+    ],
+    "cover": "_ADuPhVU7rtJUV4gztX_3OPnma2e8nCvA6ThskSzAY7ziA",
+    "publisher": "Chrispiet",
+    "language": "none",
+    "tracks": [
+        {
+            "name": "Mind of Spring",
+            "durationMs": 265000,
+            "id": "AABCCmI6GXBPWdJiCH-5ewa4uGmeJXQlvj-7Hir2UsZHKA",
+            "trackNumber": 1
+        },
+        {
+            "name": "Planet",
+            "durationMs": 353000,
+            "id": "AADqWdU-3S3uSSz3xZv-D3b4ozFq6S3odh4i3dEZO1Gw9w",
+            "trackNumber": 2
+        },
+        {
+            "name": "Wurso",
+            "durationMs": 178000,
+            "id": "AABoDPcbWLt1btOpSjLMhN5dqhXMeNniXS73LtbVxlBrMw",
+            "trackNumber": 3
+        },
+        {
+            "name": "Spin Off",
+            "durationMs": 296000,
+            "id": "AADQPqSDkJdPJfbGcHJquFA6u7MTB8xz9DZl2qsAF3cEiQ",
+            "trackNumber": 4
+        },
+        {
+            "name": "Eqiomod",
+            "durationMs": 219000,
+            "id": "AABhJm43vh3thlIHOLkHg2t9jdoDVZnrLrccnZZZvXRpbw",
+            "trackNumber": 5
+        },
+        {
+            "name": "Gamba",
+            "durationMs": 283000,
+            "id": "AAC2iMqNGhxT6aYtrrdWW_Gx-irLhq7--JLQFehDtStKYw",
+            "trackNumber": 6
+        }
+    ]
+}
